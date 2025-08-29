@@ -2,7 +2,7 @@
 
 ✨ **"A new journey has begun"**
 
-## About me: PhD in Control Systems Engineering, Aspiring Data Scientist ⚡
+## About me: PhD in Control and Systems Engineering, Data Scientist ⚡
 
 ``` text
 💡 The world.. under control:
