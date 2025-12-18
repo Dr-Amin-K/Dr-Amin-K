@@ -18,11 +18,6 @@ Till nothing was right
 And nothing was left"
 ```
 
-### ⭐ Hobbies and interests
-
-| Music   | Engineering |
-| -----   |   -----     |
-| Science |   Sports    |
 
 * Let's collaborate to make the world a better place ✨
   
