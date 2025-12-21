@@ -1,4 +1,4 @@
-# ✨ Welcome! Hello everyone!
+# ✨ Welcome! Hello everyone
 
 ## About me: PhD in Control and Systems Engineering, Computer and Data Scientist⚡
 
