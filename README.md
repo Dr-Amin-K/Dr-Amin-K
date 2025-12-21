@@ -1,6 +1,7 @@
-# ✨ Welcome! Hello everyone
+# ✨ Welcome! Hello everyone!
 
-## About me: PhD in Control and Systems Engineering, Computer and Data Scientist, Python and Web Developer ⚡
+## About me: PhD in Control and Systems Engineering, Computer and Data Scientist ⚡
+## Python and Web Developer 🌐
 
 ``` text
 💡 The world.. under control:
