@@ -4,7 +4,7 @@
 
 ## Python and Web Developer 🌐
 
-Have a look at my website:
+Here's a link to my Django-based website:
 [NeedsIn.pythonanywhere.com](https://NeedsIn.pythonanywhere.com)
 
 ``` text
